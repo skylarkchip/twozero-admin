@@ -1,0 +1,14 @@
+{
+    "name": "acf/solutions",
+    "title": "Solutions",
+    "description": "A widget that displays the solutions",
+    "category": "widget",
+    "keywords": ["solutions"],
+    "icon": "grid-view",
+    "apiVersion": 2,
+    "acf": {
+      "renderTemplate": "./solutions.php",
+      "mode": "preview"
+    }
+  }
+  

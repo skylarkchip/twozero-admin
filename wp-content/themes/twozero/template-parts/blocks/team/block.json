@@ -1,0 +1,13 @@
+{
+  "name": "acf/team",
+  "title": "Team",
+  "description": "A widget that displays the team members",
+  "category": "widget",
+  "keywords": ["our team", "team"],
+  "icon": "groups",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./team.php",
+    "mode": "preview"
+  }
+}

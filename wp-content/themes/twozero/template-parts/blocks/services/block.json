@@ -1,0 +1,13 @@
+{
+  "name": "acf/services",
+  "title": "Services",
+  "description": "A widget that displays the services content",
+  "category": "widget",
+  "keywords": ["services"],
+  "icon": "list-view",
+  "apiVersion": 2,
+  "acf": {
+    "renderTemplate": "./services.php",
+    "mode": "preview"
+  }
+}
